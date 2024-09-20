@@ -1,0 +1,10 @@
+/* frontend/src/App.css */
+.error {
+  color: red;
+  font-size: 0.8em;
+}
+
+.alert {
+  color: red;
+  margin-top: 10px;
+}
